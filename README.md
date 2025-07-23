@@ -7,7 +7,4 @@ This Python script uses Selenium to open a website, take a screenshot of a CAPTC
 - CAPTCHA image processing
 - OCR using Google Cloud Vision API
 
-## Usage
 
-```bash
-python main.py
